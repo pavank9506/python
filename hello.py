@@ -5,4 +5,5 @@ b=30
 result=a+b
 print(result)
 
-print("memory add :",id(result))
+print("memory ID :",id(result))
+print("data type :",type(result))
