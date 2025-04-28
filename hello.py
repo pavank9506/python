@@ -7,3 +7,4 @@ print(result)
 
 print("memory ID :",id(result))
 print("data type :",type(result))
+print(dir(result))
