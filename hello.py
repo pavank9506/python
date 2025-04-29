@@ -14,6 +14,7 @@ print(sample_str, type(sample_str))
 
 # 'capitalize', 'casefold', 'center', 'count', 'encode', 'endswith', 'expandtabs', 'find', 'format', 'format_map', 'index', 'isalnum', 'isalpha', 'isascii', 'isdecimal', 'isdigit', 'isidentifier', 'islower', 'isnumeric', 'isprintable', 'isspace', 'istitle', 'isupper', 'join', 'ljust', 'lower', 'lstrip', 'maketrans', 'partition', 'removeprefix', 'removesuffix', 'replace', 'rfind', 'rindex', 'rjust', 'rpartition', 'rsplit', 'rstrip', 'split', 'splitlines', 'startswith', 'strip', 'swapcase', 'title', 'translate', 'upper', 'zfill']
 
-print(sample_str.capitalize())
+print(sample_str.capitalize())  # converts first letter into capital
 
-print(sample_str.casefold())
+print(sample_str.casefold())    #converts everything iinto small case
+print(sample_str.center())
