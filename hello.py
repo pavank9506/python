@@ -24,3 +24,4 @@ print(sample_str.split(' '))   # convert a string into words using space as deli
 sample_str = "Hello"
 
 print(sample_str.index('H'))
+print(sample_str.index('o'))
