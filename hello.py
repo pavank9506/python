@@ -18,3 +18,4 @@ print(sample_str.capitalize())  # converts first letter into capital
 
 print(sample_str.casefold())    #converts everything iinto small case
 print(sample_str.center())
+print(sample_str.split(' '))
