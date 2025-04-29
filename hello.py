@@ -30,4 +30,4 @@ print(sample_str.index('o'))
 
 sample_char = sample_str[-1]
 print(sample_char)
-print(sample_str.fnd('p'))
+print(sample_str.find('p'))
