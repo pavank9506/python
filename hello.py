@@ -21,7 +21,7 @@ print(sample_str.casefold())    #converts everything iinto small case
 print(sample_str.split(' '))   # convert a string into words using space as delimeter
 
 
-sample_str = "Hell, my name is pavan"
+sample_str = "Hel0, my name is pavan"
 
 print(sample_str.index('H'))
 print(sample_str.index('o'))
