@@ -25,3 +25,8 @@ sample_str = "Hello"
 
 print(sample_str.index('H'))
 print(sample_str.index('o'))
+
+# python supports negative indexing
+
+sample_char = sample_str[-1]
+print(sample_char)
