@@ -18,4 +18,9 @@ print(sample_str.capitalize())  # converts first letter into capital
 
 print(sample_str.casefold())    #converts everything iinto small case
 # print(sample_str.center())
-print(sample_str.split(' '))
+print(sample_str.split(' '))   # convert a string into words using space as delimeter
+
+
+sample_str = "Hello"
+
+print(sample_str.index('H'))
