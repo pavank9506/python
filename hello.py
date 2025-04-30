@@ -45,3 +45,5 @@ print(l,type(l))
 
 print(l[2])
 print(l[5][4])
+
+print(dir(l))
