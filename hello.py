@@ -37,6 +37,6 @@ print(sample_str.find('p'))
 # list
 
 
-l = [1,2,3,"abc",True,[1,2,3,"abc",true]]
+l = [1,2,3,"abc",True,[1,2,3,"abc",True]]
 
 print(l)
