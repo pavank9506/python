@@ -40,3 +40,5 @@ print(sample_str.find('p'))
 l = [1,2,3,"abc",True,[1,2,3,"abc",True]]
 
 print(l)
+
+print(l,type(l))
