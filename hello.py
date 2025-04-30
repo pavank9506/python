@@ -67,5 +67,10 @@ l1 = l.append([1,2,3,"abc",True])
 
 print(l1)
 
+l.insert(0,"abc")
+
+print(l)
+
+
 
 
