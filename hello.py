@@ -71,6 +71,10 @@ l.insert(0,"abc")
 
 print(l)
 
+l.insert(3,8)
+
+print(l)
+
 
 
 
