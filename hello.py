@@ -31,3 +31,12 @@ print(sample_str.index('o'))
 sample_char = sample_str[-1]
 print(sample_char)
 print(sample_str.find('p'))
+
+
+
+# list
+
+
+l = [1,2,3,abc,false,true[1,2,3,abc,false,true]]
+
+print(l)
