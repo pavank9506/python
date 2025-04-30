@@ -58,3 +58,7 @@ l = [1,2,3,"abc",True,[1,2,3,"abc",True]]
 l.append(True)
 
 print(l)
+
+l.append([1,2,3,"abc",True])
+
+print(l)
