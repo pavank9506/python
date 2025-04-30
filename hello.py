@@ -44,3 +44,4 @@ print(l)
 print(l,type(l))
 
 print(l[2])
+print(l[5][2])
