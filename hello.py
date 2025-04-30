@@ -61,4 +61,11 @@ print(l)
 
 l.append([1,2,3,"abc",True])
 
-print(l)
+print(l)                         #using append method of list data type we can add objects to the list,where we can add multiple values
+
+l1 = l.append([1,2,3,"abc",True])
+
+print(l1)
+
+
+
