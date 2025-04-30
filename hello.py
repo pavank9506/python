@@ -37,7 +37,7 @@ print(sample_str.find('p'))
 # list
 
 
-l = [1,2,3,"abc",True,[1,2,3,"abc",True]]
+""" l = [1,2,3,"abc",True,[1,2,3,"abc",True]]
 
 print(l)
 
@@ -46,4 +46,15 @@ print(l,type(l))
 print(l[2])
 print(l[5][4])
 
-print(dir(l))
+print(dir(l)) """
+
+"""
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+"""
+
+l = [1,2,3,"abc",True,[1,2,3,"abc",True]]
+
+l.append(true)
+
+print(l)
