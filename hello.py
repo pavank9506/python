@@ -84,6 +84,12 @@ l2 = [9,6,3]
 l3 = sorted(l2)
 print(l3)
 
+# tupples
+
+t = (9,8,7,6,"abc",[1,2,3,"cvd",5])
+
+print(t)
+
 
 
 
