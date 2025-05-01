@@ -75,7 +75,7 @@ l.insert(3,8)
 
 print(l)
 
-l.extend[9,8,7,5])
+l.extend([,8,7,5])
 
 print(l)
 
