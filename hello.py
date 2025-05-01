@@ -90,6 +90,8 @@ t = (9,8,7,6,"abc",[1,2,3,"cvd",5])
 
 print(t)
 
+print(dir(t))
+
 
 
 
