@@ -75,9 +75,14 @@ l.insert(3,8)
 
 print(l)
 
-l.extend([8,7,5])
+l.extend([8,7,5])   # extend will not add entire list to the list it add each one individually
 
 print(l)
+
+l2 = [9,6,3,]
+
+print(l2.sort())
+
 
 
 
