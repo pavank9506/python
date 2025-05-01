@@ -65,15 +65,22 @@ print(l)                         #using append method of list data type we can a
 
 l1 = l.append([1,2,3,"abc",True])
 
-print(l1)
+print(l1)  # it will return none, because it is inplace operation
 
-l.insert(0,"abc")
+l.insert(0,"abc")    #using insert we can place a value in desired position
 
 print(l)
 
 l.insert(3,8)
 
 print(l)
+
+l.extent([9,8,7,5])
+
+print(l)
+
+
+
 
 
 
