@@ -80,8 +80,9 @@ l.extend([8,7,5])   # extend will not add entire list to the list it add each on
 print(l)
 
 l2 = [9,6,3]
-l2.sort()
-print(l2)
+# l2.sort()
+l3 = sorted(l2)
+print(l3)
 
 
 
